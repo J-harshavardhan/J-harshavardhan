@@ -133,13 +133,25 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 &nbsp;&nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan)
 
+### 🟡 LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/JAGANNATI_HARSHAVARDHAN?theme=dracula&font=Baloo+2&ext=heatmap&hide_border=true&border_radius=10" />
+
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/JAGANNATI_HARSHAVARDHAN?theme=dracula&font=Baloo+2&ext=heatmap&hide_border=true" />
+### 🟢 GeeksForGeeks Stats
+<img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jharshavardhan&theme=dark" onerror="this.style.display='none'" />
+<br/>
+<img src="https://gfgstatscard.vercel.app/jharshavardhan" onerror="this.style.display='none'" />
 
-<br/><br/>
+<br/>
 
-<img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jharshavardhan&theme=dark" />
+### 📊 Coding Activity Summary
+
+| Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
+|:---:|:---:|:---:|:---:|
+| 🟡 **LeetCode** | **78** | Easy: 42 · Medium: 25 · Hard: 11 | Consistent solver |
+| 🟢 **GeeksforGeeks** | **80** | Basic: 13 · Easy: 28 · Medium: 39 | Score: **207** · Inst. Rank: **#10** |
+| 🔥 **Combined** | **158+** | Across both platforms | 7-Day POTD Streak |
 
 </div>
 
@@ -156,7 +168,29 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=J-harshavardhan&theme=dracula&no-frame=true&margin-w=4&row=1&column=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=J-harshavardhan&theme=dracula&no-frame=true&margin-w=6&margin-h=6&row=1&column=6" />
+
+<br/><br/>
+
+<!-- LeetCode Badges -->
+<img src="https://img.shields.io/badge/LeetCode%20Problems-78%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Easy-42-00b8a3?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medium-25-FFB800?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hard-11-FF375F?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- GitHub Activity Badges -->
+<img src="https://img.shields.io/badge/GitHub%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Current%20Streak-5%20Days-ff79c6?style=for-the-badge&logo=fire&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-9%20Days-ff5555?style=for-the-badge&logo=fire&logoColor=white" />
+
 </div>
 
 ---
@@ -176,7 +210,10 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 ## 📚 Education
 
 🎓 **Certificate Program in AI & Machine Learning**
-&nbsp;&nbsp;&nbsp;&nbsp;IIT Patna × Masai School (Vishlesan i-Hub) · 2025–Present
+&nbsp;&nbsp;&nbsp;&nbsp;IIT Patna × Masai School (Vishlesan i-Hub) · Jan 2026–Present
+
+🏫 **B.Tech — Geethanjali Institute of Science and Technology (GIST)**
+&nbsp;&nbsp;&nbsp;&nbsp;Nellore, Andhra Pradesh
 
 ---
 
