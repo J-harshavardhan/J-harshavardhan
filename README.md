@@ -150,24 +150,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 <br/>
 
 ### 🟢 GeeksForGeeks Stats
-
-<img src="https://img.shields.io/badge/Coding%20Score-207-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Problems%20Solved-80-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Institute%20Rank-%2310-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Basic-13%20solved-blue?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Easy-28%20solved-00b8a3?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Medium-39%20solved-FFB800?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/POTD%20Streak-7%20Days%20🔥-FF6F00?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/POTDs%20Solved-15-red?style=flat-square" />
+<img src="./gfg-stats.svg" alt="GFG Stats Card" />
 
 <br/>
 
