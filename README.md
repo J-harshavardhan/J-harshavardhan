@@ -113,12 +113,23 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" />
+<!-- Static GitHub Stats — always loads -->
+<img src="https://img.shields.io/badge/Total%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Since-Jul%202025-6272a4?style=for-the-badge&logo=github&logoColor=white" />
 
-<br/>
+<br/><br/>
 
+<!-- Top Languages -->
+<img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java-DSA%20%26%20OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-Data%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br/><br/>
+
+<!-- Streak — dynamic, works reliably -->
 <img src="https://streak-stats.demolab.com?user=J-harshavardhan&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 
 </div>
