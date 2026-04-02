@@ -113,9 +113,9 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" />
 
 <br/>
 
@@ -180,16 +180,21 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Milestones & Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=J-harshavardhan&theme=dracula&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" />
+<!-- GitHub -->
+<img src="https://img.shields.io/badge/GitHub%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Current%20Streak-5%20Days-ff79c6?style=for-the-badge&logo=githubactions&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-9%20Days-ff5555?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 <br/><br/>
 
-<!-- LeetCode Badges -->
-<img src="https://img.shields.io/badge/LeetCode%20Problems-78%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<!-- LeetCode -->
+<img src="https://img.shields.io/badge/LeetCode%20Solved-78%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/Easy-42-00b8a3?style=for-the-badge" />
 &nbsp;
@@ -199,12 +204,21 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- GitHub Activity Badges -->
-<img src="https://img.shields.io/badge/GitHub%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
+<!-- GFG -->
+<img src="https://img.shields.io/badge/GFG%20Solved-80%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Current%20Streak-5%20Days-ff79c6?style=for-the-badge&logo=fire&logoColor=white" />
+<img src="https://img.shields.io/badge/Coding%20Score-207-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Longest%20Streak-9%20Days-ff5555?style=for-the-badge&logo=fire&logoColor=white" />
+<img src="https://img.shields.io/badge/Institute%20Rank-%2310-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/POTD%20Streak-7%20Days%20🔥-FF6F00?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- Program -->
+<img src="https://img.shields.io/badge/IIT%20Patna%20×%20Masai-AI%20%26%20ML%20Student-6C5CE7?style=for-the-badge&logo=academia&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenEnv%20Hackathon-Submitted%20✅-00CEC9?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
 </div>
 
