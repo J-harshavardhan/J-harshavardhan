@@ -113,13 +113,13 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=1800" height="180" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=J-harshavardhan&theme=dracula&hide_border=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=J-harshavardhan&theme=dracula&hide_border=true" height="180" />
 
 </div>
 
@@ -148,7 +148,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-harshavardhan&theme=dracula&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-harshavardhan&bg_color=282a36&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
 </div>
 
 ---
@@ -156,7 +156,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=J-harshavardhan&theme=dracula&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=J-harshavardhan&theme=dracula&no-frame=true&margin-w=4&row=1&column=6" />
 </div>
 
 ---
