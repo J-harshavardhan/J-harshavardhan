@@ -113,13 +113,13 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=1800" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=J-harshavardhan&theme=dracula&hide_border=true" height="180" />
+<img src="https://streak-stats.demolab.com?user=J-harshavardhan&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 
 </div>
 
@@ -139,9 +139,24 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 <br/>
 
 ### 🟢 GeeksForGeeks Stats
-<img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=jharshavardhan&theme=dark" onerror="this.style.display='none'" />
-<br/>
-<img src="https://gfgstatscard.vercel.app/jharshavardhan" onerror="this.style.display='none'" />
+
+<img src="https://img.shields.io/badge/Coding%20Score-207-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Problems%20Solved-80-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Institute%20Rank-%2310-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Basic-13%20solved-blue?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Easy-28%20solved-00b8a3?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medium-39%20solved-FFB800?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/POTD%20Streak-7%20Days%20🔥-FF6F00?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/POTDs%20Solved-15-red?style=flat-square" />
 
 <br/>
 
@@ -160,7 +175,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-harshavardhan&bg_color=282a36&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-harshavardhan&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area_color=44475a&area=true&hide_border=true&custom_title=Harsha%27s%20Contribution%20Graph" />
 </div>
 
 ---
@@ -169,7 +184,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=J-harshavardhan&theme=dracula&no-frame=true&margin-w=6&margin-h=6&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=J-harshavardhan&theme=dracula&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" />
 
 <br/><br/>
 
