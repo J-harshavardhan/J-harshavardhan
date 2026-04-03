@@ -159,7 +159,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 | Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
 |:---:|:---:|:---:|:---:|
 | 🟡 **LeetCode** | **78** | Easy: 42 · Medium: 25 · Hard: 11 | Consistent solver |
-| 🟢 **GeeksforGeeks** | **80** | Basic: 13 · Easy: 28 · Medium: 39 | Score: **207** · Inst. Rank: **#10** |
+| 🟢 **GeeksforGeeks** | **80** | Basic: 13 · Easy: 28 · Medium: 33 · Hard: 6 | Score: **207** · Inst. Rank: **#10** |
 | 🔥 **Combined** | **158+** | Across both platforms | 7-Day POTD Streak |
 
 </div>
