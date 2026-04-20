@@ -148,33 +148,36 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 ### 🟢 GeeksForGeeks Stats
 
-<!--
-  ⚠️  HOW TO FIND YOUR CORRECT GFG USERNAME FOR CARDS:
-  1. Go to geeksforgeeks.org and log in
-  2. Click your profile picture → "My Profile"
-  3. Your URL will be: geeksforgeeks.org/user/YOUR_USERNAME/
-  4. Use THAT username (from /user/ URL) in the card links below
-  5. Replace "jharshavardhan" below if your /user/ URL is different
--->
-
-<!-- Option 1 — gfgstatscard (dark dracula-style theme) -->
 <a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
-  <img src="https://gfgstatscard.vercel.app/jharshavardhan?theme=dark" alt="GFG Stats Card" />
+
+| 🔢 Metric | 📊 Value |
+|:---|:---:|
+| 🟢 **Problems Solved** | **95** |
+| 🔥 **Coding Score** | **255** |
+| 📅 **Monthly Score** | **56** |
+| ⚡ **Streak** | **13 / 1722 days** |
+| 🏫 **Institute Rank** | **#10** |
+| 🟤 Basic | 17 |
+| 🟢 Easy | 32 |
+| 🟡 Medium | 38 |
+| 🔴 Hard | 8 |
+
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Option 2 — napiyo API (different card style, also live) -->
-<a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=jharshavardhan" alt="GFG Stats" />
-</a>
+<!-- GFG Stats Visual Badges -->
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Coding Score](https://img.shields.io/badge/Coding%20Score-255-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Streak](https://img.shields.io/badge/Streak-13%20Days%20🔥-FF6F00?style=for-the-badge)
+![Institute Rank](https://img.shields.io/badge/Institute%20Rank-%2310-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
-<br/><br/>
+<br/>
 
-<!-- Option 3 — arnoob unofficial GFG API card -->
-<a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
-  <img src="https://geeks-for-geeks-api.vercel.app/jharshavardhan" alt="GFG API Stats" />
-</a>
+![Basic](https://img.shields.io/badge/Basic-17-8B8000?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-32-2F8D46?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-38-FFB800?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-8-FF375F?style=flat-square)
 
 <br/>
 
@@ -183,8 +186,8 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 | Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
 |:---:|:---:|:---:|:---:|
 | 🟡 **LeetCode** | **95** | Easy: 47 · Medium: 33 · Hard: 15 | Rank: **#1565117** |
-| 🟢 **GeeksforGeeks** | **80** | Basic: 13 · Easy: 28 · Medium: 33 · Hard: 6 | Score: **207** · Inst. Rank: **#10** |
-| 🔥 **Combined** | **175+** | Across both platforms | 7-Day POTD Streak |
+| 🟢 **GeeksforGeeks** | **95** | Basic: 17 · Easy: 32 · Medium: 38 · Hard: 8 | Score: **255** · Inst. Rank: **#10** |
+| 🔥 **Combined** | **190+** | Across both platforms | Streak: **13 Days** |
 
 </div>
 
@@ -223,13 +226,13 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 <br/><br/>
 
 <!-- GFG -->
-<img src="https://img.shields.io/badge/GFG%20Solved-80%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GFG%20Solved-95%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Coding%20Score-207-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Coding%20Score-255-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Institute%20Rank-%2310-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/POTD%20Streak-7%20Days%20🔥-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streak-13%20Days%20🔥-FF6F00?style=for-the-badge" />
 
 <br/><br/>
 
