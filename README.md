@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagannati-harsha-vardhan-38117637b/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/HarshavardhanJ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jharshava5e2y/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-harshavardhan)
 
 <img src="https://komarev.com/ghpvc/?username=J-harshavardhan&style=for-the-badge&color=blueviolet" alt="Profile Views" />
@@ -139,7 +139,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
 &nbsp;&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jharshava5e2y/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 
 ### 🟡 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/JAGANNATI_HARSHAVARDHAN?theme=dracula&font=Baloo+2&ext=heatmap&hide_border=true&border_radius=10" />
@@ -148,16 +148,32 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 ### 🟢 GeeksForGeeks Stats
 
-<!-- Live GFG card — dark theme, auto-updates on every profile view -->
-<a href="https://www.geeksforgeeks.org/user/jharshava5e2y/">
-  <img src="https://gfgstatscard.vercel.app/jharshava5e2y?theme=dark" alt="GFG Stats Card" height="200" />
+<!--
+  ⚠️  HOW TO FIND YOUR CORRECT GFG USERNAME FOR CARDS:
+  1. Go to geeksforgeeks.org and log in
+  2. Click your profile picture → "My Profile"
+  3. Your URL will be: geeksforgeeks.org/user/YOUR_USERNAME/
+  4. Use THAT username (from /user/ URL) in the card links below
+  5. Replace "jharshavardhan" below if your /user/ URL is different
+-->
+
+<!-- Option 1 — gfgstatscard (dark dracula-style theme) -->
+<a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
+  <img src="https://gfgstatscard.vercel.app/jharshavardhan?theme=dark" alt="GFG Stats Card" />
 </a>
 
 <br/><br/>
 
-<!-- Second live GFG card (napiyo API) — different style, also auto-updates -->
-<a href="https://www.geeksforgeeks.org/user/jharshava5e2y/">
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=jharshava5e2y" alt="GFG Stats" />
+<!-- Option 2 — napiyo API (different card style, also live) -->
+<a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=jharshavardhan" alt="GFG Stats" />
+</a>
+
+<br/><br/>
+
+<!-- Option 3 — arnoob unofficial GFG API card -->
+<a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
+  <img src="https://geeks-for-geeks-api.vercel.app/jharshavardhan" alt="GFG API Stats" />
 </a>
 
 <br/>
@@ -195,7 +211,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- LeetCode — updated from screenshot -->
+<!-- LeetCode -->
 <img src="https://img.shields.io/badge/LeetCode%20Solved-95%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/Easy-47-00b8a3?style=for-the-badge" />
