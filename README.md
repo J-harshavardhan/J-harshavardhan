@@ -147,37 +147,10 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 <br/>
 
 ### 🟢 GeeksForGeeks Stats
-
+<!-- Auto-updated daily by GitHub Actions — see .github/workflows/update-gfg-stats.yml -->
 <a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
-
-| 🔢 Metric | 📊 Value |
-|:---|:---:|
-| 🟢 **Problems Solved** | **95** |
-| 🔥 **Coding Score** | **255** |
-| 📅 **Monthly Score** | **56** |
-| ⚡ **Streak** | **13 / 1722 days** |
-| 🏫 **Institute Rank** | **#10** |
-| 🟤 Basic | 17 |
-| 🟢 Easy | 32 |
-| 🟡 Medium | 38 |
-| 🔴 Hard | 8 |
-
+  <img src="./gfg-stats.svg" alt="GFG Stats Card" />
 </a>
-
-<br/>
-
-<!-- GFG Stats Visual Badges -->
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Coding Score](https://img.shields.io/badge/Coding%20Score-255-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-13%20Days%20🔥-FF6F00?style=for-the-badge)
-![Institute Rank](https://img.shields.io/badge/Institute%20Rank-%2310-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-<br/>
-
-![Basic](https://img.shields.io/badge/Basic-17-8B8000?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-32-2F8D46?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-38-FFB800?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-8-FF375F?style=flat-square)
 
 <br/>
 
@@ -185,9 +158,9 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 | Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
 |:---:|:---:|:---:|:---:|
-| 🟡 **LeetCode** | **95** | Easy: 47 · Medium: 33 · Hard: 15 | Rank: **#1565117** |
+| 🟡 **LeetCode** | **96** | Easy: 48 · Medium: 33 · Hard: 15 | Rank: **#1566047** |
 | 🟢 **GeeksforGeeks** | **95** | Basic: 17 · Easy: 32 · Medium: 38 · Hard: 8 | Score: **255** · Inst. Rank: **#10** |
-| 🔥 **Combined** | **190+** | Across both platforms | Streak: **13 Days** |
+| 🔥 **Combined** | **191+** | Across both platforms | Streak: **13 Days** 🔥 |
 
 </div>
 
@@ -205,7 +178,6 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<!-- GitHub -->
 <img src="https://img.shields.io/badge/GitHub%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Current%20Streak-5%20Days-ff79c6?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -214,10 +186,9 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- LeetCode -->
-<img src="https://img.shields.io/badge/LeetCode%20Solved-95%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode%20Solved-96%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/Easy-47-00b8a3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Easy-48-00b8a3?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Medium-33-FFB800?style=for-the-badge" />
 &nbsp;
@@ -225,7 +196,6 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- GFG -->
 <img src="https://img.shields.io/badge/GFG%20Solved-95%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Coding%20Score-255-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
@@ -236,7 +206,6 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- Program -->
 <img src="https://img.shields.io/badge/IIT%20Patna%20×%20Masai-AI%20%26%20ML%20Student-6C5CE7?style=for-the-badge&logo=academia&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenEnv%20Hackathon-Submitted%20✅-00CEC9?style=for-the-badge&logo=hackthebox&logoColor=white" />
