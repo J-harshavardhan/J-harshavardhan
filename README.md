@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagannati-harsha-vardhan-38117637b/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/HarshavardhanJ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshava5e2y)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jharshava5e2y/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-harshavardhan)
 
 <img src="https://komarev.com/ghpvc/?username=J-harshavardhan&style=for-the-badge&color=blueviolet" alt="Profile Views" />
@@ -113,14 +113,12 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<!-- Static GitHub Stats — always loads -->
 <img src="https://img.shields.io/badge/Total%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Since-Jul%202025-6272a4?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
-<!-- Top Languages -->
 <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Java-DSA%20%26%20OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -129,7 +127,6 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- Streak — dynamic, works reliably -->
 <img src="https://streak-stats.demolab.com?user=J-harshavardhan&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 
 </div>
@@ -142,28 +139,36 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
 &nbsp;&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jharshava5e2y/)
 
 ### 🟡 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/JAGANNATI_HARSHAVARDHAN?theme=dracula&font=Baloo+2&ext=heatmap&hide_border=true&border_radius=10" />
 
 <br/>
 
-
 ### 🟢 GeeksForGeeks Stats
+
+<!-- Live GFG card — dark theme, auto-updates on every profile view -->
 <a href="https://www.geeksforgeeks.org/user/jharshava5e2y/">
-  <img src="https://gfgstatscard.vercel.app/jharshava5e2y" alt="GFG Stats Card" />
+  <img src="https://gfgstatscard.vercel.app/jharshava5e2y?theme=dark" alt="GFG Stats Card" height="200" />
 </a>
- 
+
+<br/><br/>
+
+<!-- Second live GFG card (napiyo API) — different style, also auto-updates -->
+<a href="https://www.geeksforgeeks.org/user/jharshava5e2y/">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=jharshava5e2y" alt="GFG Stats" />
+</a>
+
 <br/>
 
 ### 📊 Coding Activity Summary
 
 | Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
 |:---:|:---:|:---:|:---:|
-| 🟡 **LeetCode** | **78** | Easy: 42 · Medium: 25 · Hard: 11 | Consistent solver |
+| 🟡 **LeetCode** | **95** | Easy: 47 · Medium: 33 · Hard: 15 | Rank: **#1565117** |
 | 🟢 **GeeksforGeeks** | **80** | Basic: 13 · Easy: 28 · Medium: 33 · Hard: 6 | Score: **207** · Inst. Rank: **#10** |
-| 🔥 **Combined** | **158+** | Across both platforms | 7-Day POTD Streak |
+| 🔥 **Combined** | **175+** | Across both platforms | 7-Day POTD Streak |
 
 </div>
 
@@ -190,14 +195,14 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- LeetCode -->
-<img src="https://img.shields.io/badge/LeetCode%20Solved-78%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<!-- LeetCode — updated from screenshot -->
+<img src="https://img.shields.io/badge/LeetCode%20Solved-95%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/Easy-42-00b8a3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Easy-47-00b8a3?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Medium-25-FFB800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Medium-33-FFB800?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Hard-11-FF375F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hard-15-FF375F?style=for-the-badge" />
 
 <br/><br/>
 
