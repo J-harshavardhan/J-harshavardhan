@@ -149,8 +149,11 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/>
 
+
 ### 🟢 GeeksForGeeks Stats
-<img src="./gfg-stats.svg" alt="GFG Stats Card" />
+<a href="https://www.geeksforgeeks.org/user/jharshava5e2y/">
+  <img src="https://gfgstatscard.vercel.app/jharshava5e2y" alt="GFG Stats Card" />
+</a>
  
 <br/>
 
