@@ -150,7 +150,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 ### 🟢 GeeksForGeeks Stats
 <!-- ✅ LIVE — auto-updated every 3 hours by GitHub Actions -->
 <a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
-  <img src="./gfg-stats.svg" alt="GFG Stats Card" />
+  <img src="gfg-stats.svg" alt="GFG Stats Card" />
 </a>
 
 <br/>
