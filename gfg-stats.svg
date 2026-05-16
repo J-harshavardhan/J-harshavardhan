@@ -32,11 +32,11 @@
   <circle cx="75" cy="126" r="40" fill="none" stroke="#1e293b" stroke-width="6"/>
   <circle cx="75" cy="126" r="40" fill="none" stroke="url(#cg)"
           stroke-width="6" stroke-linecap="round"
-          stroke-dasharray="123.7 251.3"
+          stroke-dasharray="127.7 251.3"
           stroke-dashoffset="0"
           transform="rotate(-90 75 126)"/>
   <text x="75" y="131" font-family="Segoe UI,sans-serif" font-size="22"
-        font-weight="800" fill="#f1f5f9" text-anchor="middle">123</text>
+        font-weight="800" fill="#f1f5f9" text-anchor="middle">127</text>
   <text x="75" y="178" font-family="Segoe UI,sans-serif" font-size="9"
         fill="#64748b" text-anchor="middle" letter-spacing="1">SOLVED</text>
 
@@ -88,5 +88,5 @@
 
   <!-- Footer -->
   <text x="484" y="222" font-family="Segoe UI,sans-serif" font-size="8"
-        fill="#334155" text-anchor="end">Updated: 16 May 2026, 06:05 UTC</text>
+        fill="#334155" text-anchor="end">Updated: 16 May 2026, 10:16 UTC</text>
 </svg>
