@@ -190,14 +190,15 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 ### 📊 Coding Activity Summary
 
-<!-- ✅ LeetCode badges are LIVE via alfa-leetcode-api (reliable, no rate limits) -->
-<!-- ✅ GFG badges are LIVE via gfgstatsapi -->
-<!-- ✅ Streak badge is LIVE via demolab streak-stats JSON endpoint -->
+<!-- ✅ LeetCode badges — LIVE via alfa-leetcode-api.onrender.com -->
+<!-- ✅ GFG badges — LIVE via gfg-stats.tashif.codes (FastAPI, uses GFG's own JSON endpoints) -->
+<!-- ✅ GFG stats card — LIVE via gfgstatscard.vercel.app -->
+<!-- ✅ Streak — LIVE via demolab streak-stats JSON endpoint -->
 
 | Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
 |:---:|:---:|:---:|:---:|
 | 🟡 **LeetCode** | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.totalSolved&label=Solved&color=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) | [![Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.easySolved&label=Easy&color=00b8a3)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) [![Med](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.mediumSolved&label=Med&color=FFB800)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) [![Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.hardSolved&label=Hard&color=FF375F)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) | [![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.ranking&label=Rank&color=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) |
-| 🟢 **GeeksforGeeks** | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.totalProblemsSolved&label=Solved&color=2F8D46&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) | [![Score](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.codingScore&label=Score&color=2F8D46&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) [![POTDs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.monthlyCodingScore&label=POTDs&color=FF6F00)](https://www.geeksforgeeks.org/profile/jharshavardhan/) | [![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.instituteRank&label=Inst.%20Rank&prefix=%23&color=gold&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) |
+| 🟢 **GeeksforGeeks** | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.totalProblemsSolved&label=Solved&color=2F8D46&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) | [![Score](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.codingScore&label=Score&color=2F8D46&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) [![Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.currentStreak&label=Streak&suffix=%20days&color=FF6F00)](https://www.geeksforgeeks.org/profile/jharshavardhan/) | [![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.instituteRank&label=Inst.%20Rank&prefix=%23&color=gold&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) |
 | 🔥 **Combined** | ![](https://img.shields.io/badge/300%2B-Problems%20Solved-bd93f9?style=flat&logo=github) | LeetCode + GFG | [![Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DcurrentStreak%26label%3DGitHub%2520Streak%26suffix%3D%2520Days%26color%3Dff79c6)](https://github.com/J-harshavardhan) |
 
 </div>
@@ -237,11 +238,11 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 <br/><br/>
 
 <!-- ✅ GFG milestones — LIVE via gfgstatsapi -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.totalProblemsSolved&label=GFG%20Solved&suffix=%20Problems&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.totalProblemsSolved&label=GFG%20Solved&suffix=%20Problems&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.codingScore&label=Coding%20Score&color=brightgreen&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.codingScore&label=Coding%20Score&color=brightgreen&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.instituteRank&label=Institute%20Rank&prefix=%23&color=gold&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.instituteRank&label=Institute%20Rank&prefix=%23&color=gold&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 
 <br/><br/>
 
@@ -284,4 +285,4 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 **⭐ If you like what I'm building, consider starring my repos!**
 
-</div>    
+</div>
