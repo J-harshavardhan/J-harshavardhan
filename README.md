@@ -68,6 +68,45 @@ class HarshaVardhan:
 
 ## 🚀 Featured Projects
 
+### 🛡️ [ChurnGuard — Customer Churn Prediction](https://github.com/J-harshavardhan/mini_project-2)
+> **Mini Project 2** — AI & ML Program (IIT Patna × Masai School)
+
+A complete **end-to-end ML pipeline** to predict telecom customer churn with 90% recall, built with production-quality data cleaning, model comparison, cross-validation, and a 3-panel analytics dashboard.
+
+```
+Raw CSV (1030 rows) → Clean → Train/Compare → Predict → Visualize Dashboard
+```
+
+- 🧹 **Data cleaning** — fixed 8 real-world issues: mixed casing, typos, outliers, 30 duplicates, 205 missing cells
+- 🤖 **Model comparison** — Logistic Regression vs Random Forest with 5-Fold Stratified CV
+- 🏆 **ROC-AUC: 0.814** | Churn Recall: **90%** | Winner: Logistic Regression
+- 📊 **3-panel dashboard** — dataset overview, behaviour deep-dive, confusion matrix + ROC curve
+- 🔮 **Interactive predictor** — takes customer input and outputs churn probability % + risk level
+
+**Key Insights:** Month-to-month contracts & electronic check payments have highest churn; senior citizens and high monthly charges are major risk signals.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.814-brightgreen?style=flat)
+![Recall](https://img.shields.io/badge/Churn%20Recall-90%25-blue?style=flat)
+
+<details>
+<summary>📊 View Dashboard</summary>
+
+**Figure 1 — Dataset Overview**
+![Overview](https://github.com/J-harshavardhan/mini_project-2/raw/main/Dashboard/task5_fig1_overview.png)
+
+**Figure 2 — Customer Behaviour Deep-Dive**
+![Behaviour](https://github.com/J-harshavardhan/mini_project-2/raw/main/Dashboard/task5_fig2_behaviour.png)
+
+**Figure 3 — Model Evaluation**
+![Model](https://github.com/J-harshavardhan/mini_project-2/raw/main/Dashboard/task5_fig3_model.png)
+
+</details>
+
+---
+
 ### 🧹 [Data Cleaning Environment Server](https://huggingface.co/spaces/HarshavardhanJ/data-cleaning-env)
 > **OpenEnv Hackathon × Scaler** — Solo Beginner Track
 
@@ -86,7 +125,7 @@ An end-to-end **Reinforcement Learning environment** for automated data cleaning
 ---
 
 ### 📊 [TrendPulse — What's Actually Trending Right Now](https://github.com/J-harshavardhan/trendpulse-Harshavardhan_J)
-> **First Mini Project** — AI & ML Program (IIT Patna × Masai School)
+> **Mini Project 1** — AI & ML Program (IIT Patna × Masai School)
 
 A complete **end-to-end data pipeline** that collects, cleans, analyzes, and visualizes real-time trending data from Reddit using a modular ETL architecture.
 
@@ -113,20 +152,14 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
+<!-- ✅ LIVE — auto-updates on every push -->
+<img src="https://github-readme-stats.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="170" />
 &nbsp;
-<img src="https://img.shields.io/badge/Since-Jul%202025-6272a4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="170" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Java-DSA%20%26%20OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-Data%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br/><br/>
-
+<!-- ✅ LIVE — streak auto-updates daily -->
 <img src="https://streak-stats.demolab.com?user=J-harshavardhan&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 
 </div>
@@ -157,11 +190,15 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 ### 📊 Coding Activity Summary
 
+<!-- ✅ LeetCode badges are LIVE via alfa-leetcode-api (reliable, no rate limits) -->
+<!-- ✅ GFG badges are LIVE via gfgstatsapi -->
+<!-- ✅ Streak badge is LIVE via demolab streak-stats JSON endpoint -->
+
 | Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
 |:---:|:---:|:---:|:---:|
-| 🟡 **LeetCode** | **100** | Easy: 50 · Medium: 35 · Hard: 15 | Rank: **#1566047** |
-| 🟢 **GeeksforGeeks** | **100** | School: 0 · Basic: 17 · Easy: 33 · Medium: 42 · Hard: 8 | Score: **273** · Inst. Rank: **#5** |
-| 🔥 **Combined** | **200+** | Across both platforms | Streak: **13 Days** 🔥 |
+| 🟡 **LeetCode** | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.totalSolved&label=Solved&color=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) | [![Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.easySolved&label=Easy&color=00b8a3)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) [![Med](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.mediumSolved&label=Med&color=FFB800)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) [![Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.hardSolved&label=Hard&color=FF375F)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) | [![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.ranking&label=Rank&color=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/) |
+| 🟢 **GeeksforGeeks** | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.totalProblemsSolved&label=Solved&color=2F8D46&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) | [![Score](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.codingScore&label=Score&color=2F8D46&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) [![POTDs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.monthlyCodingScore&label=POTDs&color=FF6F00)](https://www.geeksforgeeks.org/profile/jharshavardhan/) | [![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.instituteRank&label=Inst.%20Rank&prefix=%23&color=gold&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/) |
+| 🔥 **Combined** | ![](https://img.shields.io/badge/300%2B-Problems%20Solved-bd93f9?style=flat&logo=github) | LeetCode + GFG | [![Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DcurrentStreak%26label%3DGitHub%2520Streak%26suffix%3D%2520Days%26color%3Dff79c6)](https://github.com/J-harshavardhan) |
 
 </div>
 
@@ -179,34 +216,38 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
+<!-- ✅ GitHub streak milestones — LIVE via demolab JSON endpoint -->
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DtotalContributions%26label%3DTotal%2520Contributions%26color%3Dbd93f9" />
 &nbsp;
-<img src="https://img.shields.io/badge/Current%20Streak-13%20Days-ff79c6?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DcurrentStreak%26label%3DCurrent%2520Streak%26suffix%3D%2520Days%26color%3Dff79c6" />
 &nbsp;
-<img src="https://img.shields.io/badge/Longest%20Streak-13%20Days-ff5555?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DlongestStreak%26label%3DLongest%2520Streak%26suffix%3D%2520Days%26color%3Dff5555" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LeetCode%20Solved-100%20Problems%20🎯-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<!-- ✅ LeetCode milestones — LIVE via alfa-leetcode-api -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.totalSolved&label=LeetCode%20Solved&suffix=%20Problems%20%F0%9F%8E%AF&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/Easy-50-00b8a3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.easySolved&label=Easy&color=00b8a3&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Medium-35-FFB800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.mediumSolved&label=Medium&color=FFB800&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Hard-15-FF375F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.hardSolved&label=Hard&color=FF375F&style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GFG%20Solved-100%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<!-- ✅ GFG milestones — LIVE via gfgstatsapi -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.totalProblemsSolved&label=GFG%20Solved&suffix=%20Problems&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Coding%20Score-273-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.codingScore&label=Coding%20Score&color=brightgreen&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Institute%20Rank-%235-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/POTDs%20Solved-32%20🔥-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfgstatsapi.vercel.app%2Fapi%3Fusername%3Djharshavardhan&query=%24.instituteRank&label=Institute%20Rank&prefix=%23&color=gold&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 
 <br/><br/>
 
+<!-- ✅ ChurnGuard project badge -->
+<img src="https://img.shields.io/badge/ChurnGuard-ROC--AUC%200.814%20%F0%9F%9A%80-8E44AD?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/IIT%20Patna%20×%20Masai-AI%20%26%20ML%20Student-6C5CE7?style=for-the-badge&logo=academia&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenEnv%20Hackathon-Submitted%20✅-00CEC9?style=for-the-badge&logo=hackthebox&logoColor=white" />
@@ -243,4 +284,4 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 **⭐ If you like what I'm building, consider starring my repos!**
 
-</div>
+</div>    
