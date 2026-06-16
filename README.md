@@ -186,17 +186,24 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 
 <div align="center">
 
-### 🟡 LeetCode
+### 🟡 LeetCode Stats & Heatmap
 
 <img src="https://leetcard.jacoblin.cool/JAGANNATI_HARSHAVARDHAN?theme=dark&font=Baloo+2&ext=heatmap&hide_border=true&border_radius=12&background=0d1117" />
 
 <br/><br/>
 
-### 🟢 GeeksForGeeks
+### 🟢 GeeksForGeeks Stats
 
-<a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
-  <img src="gfg-stats.svg" alt="GFG Stats Card" />
-</a>
+<img src="https://gfgstatscard.vercel.app/jharshavardhan?theme=dark" alt="GFG Stats Card" />
+
+<br/>
+
+> **Live Difficulty Breakdown (auto-updates):**
+
+![Basic](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Basic&label=Basic&color=3498DB&style=for-the-badge)
+![Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Easy&label=Easy&color=00b8a3&style=for-the-badge)
+![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Medium&label=Medium&color=FFB800&style=for-the-badge)
+![Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Hard&label=Hard&color=FF375F&style=for-the-badge)
 
 <br/><br/>
 
