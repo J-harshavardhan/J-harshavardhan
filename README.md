@@ -258,9 +258,9 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 </td>
 <td align="center">
 
-[![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.instituteRank&label=Institute%20Rank&prefix=%23&color=gold&style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
+[![Rank](https://img.shields.io/badge/Institute%20Rank-%233-gold?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 <br/>
-[![Score](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.info.codingScore&label=Coding%20Score&color=2F8D46&style=flat-square)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
+[![Score](https://img.shields.io/badge/Coding%20Score-466-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 
 </td>
 </tr>
@@ -274,7 +274,7 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 <td align="center">LeetCode + GFG</td>
 <td align="center">
 
-[![GitHub Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DcurrentStreak%26label%3DGitHub%2520Streak%26suffix%3D%2520Days%26color%3Da855f7&style=flat-square)](https://github.com/J-harshavardhan)
+[![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Live%20🔥-a855f7?style=flat-square&logo=github)](https://github.com/J-harshavardhan)
 
 </td>
 </tr>
@@ -289,11 +289,7 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 
 <div align="center">
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DtotalContributions%26label%3DTotal%2520Contributions%26color%3D7c3aed&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DcurrentStreak%26label%3DCurrent%2520Streak%26suffix%3D%2520Days%26color%3Da855f7&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%3Fuser%3DJ-harshavardhan%26type%3Djson%26property%3DlongestStreak%26label%3DLongest%2520Streak%26suffix%3D%2520Days%26color%3Dc084fc&style=for-the-badge" />
+<img src="https://streak-stats.demolab.com?user=J-harshavardhan&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7&border_radius=12" />
 
 <br/><br/>
 
