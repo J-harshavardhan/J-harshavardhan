@@ -294,7 +294,7 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 <br/><br/>
 
 <!-- LeetCode Milestones -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.totalSolved&label=LeetCode%20Solved&suffix=%20Problems%20🎯&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.totalSolved&label=LeetCode%20Solved&suffix=%20Problems&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.easySolved&label=Easy&color=00b8a3&style=for-the-badge" />
 &nbsp;
