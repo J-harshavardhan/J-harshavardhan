@@ -166,9 +166,9 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=a855f7&text_color=c9d1d9&border_radius=12" height="175" />
+<img src="https://github-readme-stats-rho-three-90.vercel.app/api?username=J-harshavardhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=a855f7&text_color=c9d1d9&border_radius=12" height="175" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=12" height="175" />
+<img src="https://github-readme-stats-rho-three-90.vercel.app/api/top-langs/?username=J-harshavardhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=12" height="175" />
 
 <br/><br/>
 
