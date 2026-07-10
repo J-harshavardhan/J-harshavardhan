@@ -32,11 +32,11 @@
   <circle cx="75" cy="126" r="40" fill="none" stroke="#1e293b" stroke-width="6"/>
   <circle cx="75" cy="126" r="40" fill="none" stroke="url(#cg)"
           stroke-width="6" stroke-linecap="round"
-          stroke-dasharray="182.0 251.3"
+          stroke-dasharray="100.5 251.3"
           stroke-dashoffset="0"
           transform="rotate(-90 75 126)"/>
   <text x="75" y="131" font-family="Segoe UI,sans-serif" font-size="22"
-        font-weight="800" fill="#f1f5f9" text-anchor="middle">181</text>
+        font-weight="800" fill="#f1f5f9" text-anchor="middle">100</text>
   <text x="75" y="178" font-family="Segoe UI,sans-serif" font-size="9"
         fill="#64748b" text-anchor="middle" letter-spacing="1">SOLVED</text>
 
@@ -64,29 +64,29 @@
 
   <!-- Basic -->
   <text x="163" y="129" font-family="Segoe UI,sans-serif" font-size="11" fill="#86efac">Basic</text>
-  <text x="484" y="129" font-family="Segoe UI,sans-serif" font-size="11" fill="#86efac" text-anchor="end">0</text>
+  <text x="484" y="129" font-family="Segoe UI,sans-serif" font-size="11" fill="#86efac" text-anchor="end">17</text>
   <rect x="163" y="133" width="230" height="5" rx="2.5" fill="#1e293b"/>
-  <rect x="163" y="133" width="4" height="5" rx="2.5" fill="#86efac"/>
+  <rect x="163" y="133" width="78" height="5" rx="2.5" fill="#86efac"/>
 
   <!-- Easy -->
   <text x="163" y="151" font-family="Segoe UI,sans-serif" font-size="11" fill="#4ade80">Easy</text>
-  <text x="484" y="151" font-family="Segoe UI,sans-serif" font-size="11" fill="#4ade80" text-anchor="end">0</text>
+  <text x="484" y="151" font-family="Segoe UI,sans-serif" font-size="11" fill="#4ade80" text-anchor="end">33</text>
   <rect x="163" y="155" width="230" height="5" rx="2.5" fill="#1e293b"/>
-  <rect x="163" y="155" width="4" height="5" rx="2.5" fill="#4ade80"/>
+  <rect x="163" y="155" width="76" height="5" rx="2.5" fill="#4ade80"/>
 
   <!-- Medium -->
   <text x="163" y="173" font-family="Segoe UI,sans-serif" font-size="11" fill="#fb923c">Medium</text>
-  <text x="484" y="173" font-family="Segoe UI,sans-serif" font-size="11" fill="#fb923c" text-anchor="end">0</text>
+  <text x="484" y="173" font-family="Segoe UI,sans-serif" font-size="11" fill="#fb923c" text-anchor="end">42</text>
   <rect x="163" y="177" width="230" height="5" rx="2.5" fill="#1e293b"/>
-  <rect x="163" y="177" width="4" height="5" rx="2.5" fill="#fb923c"/>
+  <rect x="163" y="177" width="64" height="5" rx="2.5" fill="#fb923c"/>
 
   <!-- Hard -->
   <text x="163" y="195" font-family="Segoe UI,sans-serif" font-size="11" fill="#f87171">Hard</text>
-  <text x="484" y="195" font-family="Segoe UI,sans-serif" font-size="11" fill="#f87171" text-anchor="end">0</text>
+  <text x="484" y="195" font-family="Segoe UI,sans-serif" font-size="11" fill="#f87171" text-anchor="end">8</text>
   <rect x="163" y="199" width="230" height="5" rx="2.5" fill="#1e293b"/>
-  <rect x="163" y="199" width="4" height="5" rx="2.5" fill="#f87171"/>
+  <rect x="163" y="199" width="37" height="5" rx="2.5" fill="#f87171"/>
 
   <!-- Footer -->
   <text x="484" y="222" font-family="Segoe UI,sans-serif" font-size="8"
-        fill="#334155" text-anchor="end">Updated: 10 Jul 2026, 14:27 UTC</text>
+        fill="#334155" text-anchor="end">Updated: 10 Jul 2026, 16:56 UTC</text>
 </svg>
