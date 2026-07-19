@@ -228,7 +228,7 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 <td align="center">🟢 <b>GeeksforGeeks</b></td>
 <td align="center">
 
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.totalProblemsSolved&label=Solved&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
+[![](https://img.shields.io/badge/Solved-191-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 
 </td>
 <td align="center">
