@@ -196,15 +196,6 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 
 <img src="https://gfgstatscard.vercel.app/jharshavardhan?theme=dark" alt="GFG Stats Card" />
 
-<br/>
-
-> **Live Difficulty Breakdown (auto-updates):**
-
-![Basic](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Basic&label=Basic&color=3498DB&style=for-the-badge)
-![Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Easy&label=Easy&color=00b8a3&style=for-the-badge)
-![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Medium&label=Medium&color=FFB800&style=for-the-badge)
-![Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Hard&label=Hard&color=FF375F&style=for-the-badge)
-
 <br/><br/>
 
 ### 📊 Live Stats Dashboard
@@ -214,7 +205,6 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 <tr>
 <th align="center">Platform</th>
 <th align="center">💻 Total Solved</th>
-<th align="center">📊 Difficulty Breakdown</th>
 <th align="center">🏆 Rank / Achievement</th>
 </tr>
 </thead>
@@ -224,13 +214,6 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 <td align="center">
 
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.totalSolved&label=Solved&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
-
-</td>
-<td align="center">
-
-[![Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.easySolved&label=Easy&color=00b8a3&style=flat-square)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
-[![Med](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.mediumSolved&label=Med&color=FFB800&style=flat-square)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
-[![Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.hardSolved&label=Hard&color=FF375F&style=flat-square)](https://leetcode.com/u/JAGANNATI_HARSHAVARDHAN/)
 
 </td>
 <td align="center">
@@ -250,17 +233,9 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 </td>
 <td align="center">
 
-![Basic](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Basic&label=Basic&color=3498DB&style=flat-square)
-![Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Easy&label=Easy&color=00b8a3&style=flat-square)
-![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Medium&label=Medium&color=FFB800&style=flat-square)
-![Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Hard&label=Hard&color=FF375F&style=flat-square)
-
-</td>
-<td align="center">
-
 [![Rank](https://img.shields.io/badge/Institute%20Rank-%233-gold?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 <br/>
-[![Score](https://img.shields.io/badge/Coding%20Score-466-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
+[![Score](https://img.shields.io/badge/Coding%20Score-610-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 
 </td>
 </tr>
@@ -271,7 +246,6 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 ![Combined](https://img.shields.io/badge/300%2B-Problems%20Solved-7c3aed?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
-<td align="center">LeetCode + GFG</td>
 <td align="center">
 
 [![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Live%20🔥-a855f7?style=flat-square&logo=github)](https://github.com/J-harshavardhan)
@@ -290,30 +264,6 @@ Modular **ETL data pipeline** collecting, cleaning, analyzing and visualizing re
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=J-harshavardhan&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7&border_radius=12" />
-
-<br/><br/>
-
-<!-- LeetCode Milestones -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.totalSolved&label=LeetCode%20Solved&suffix=%20Problems&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.easySolved&label=Easy&color=00b8a3&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.mediumSolved&label=Medium&color=FFB800&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fuserprofile%2FJAGANNATI_HARSHAVARDHAN&query=%24.hardSolved&label=Hard&color=FF375F&style=for-the-badge" />
-
-<br/><br/>
-
-<!-- GFG Milestones -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.totalProblemsSolved&label=GFG%20Solved&suffix=%20Problems&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Basic&label=Basic&color=3498DB&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Easy&label=Easy&color=00b8a3&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Medium&label=Medium&color=FFB800&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Fjharshavardhan&query=%24.Hard&label=Hard&color=FF375F&style=for-the-badge" />
 
 <br/><br/>
 
